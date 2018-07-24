@@ -6,7 +6,7 @@ $UserPWD = $_POST["UserPWD"];
 // 資料庫資料
 $servername = "localhost";
 $username = "id6112070_w1233120";
-$password = "o3899357";
+$password = "xxxxxx";
 $dbname = "id6112070_w1233120_01";
 
 
