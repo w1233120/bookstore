@@ -9,7 +9,7 @@ $phonenumber=$_POST["phonenumber"];
 $adrees=$_POST["adrees"];
 $servername = "localhost";
 $username = "id6112070_w1233120";
-$password = "o3899357";
+$password = "";
 $dbname = "id6112070_w1233120_01";
 
 // 建立資料連結
